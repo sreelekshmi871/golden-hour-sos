@@ -1,0 +1,11 @@
+{
+  "name": "Golden Hour SOS",
+  "description": "Life-saving emergency response platform with voice-enabled SOS, instant AI triage, smart hospital bed & specialist matching, and live hospital ER dispatch dashboard.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
